@@ -113,15 +113,15 @@ Not everything here is meant to be perfect (not even possible). Some repositorie
 
 When I'm not coding, you'll probably find me doing something completely unrelated to production systems.
 
-🐈 Cats
-🎮 The Sims
-🌱 Stardew Valley
-🌸 Studio Ghibli
-🎨 Painting
-☕ Cooking or Baking something
+🐈 Loving my Cats
+🎮 Playing The Sims
+🌱 Playing Stardew Valley
+🌸 Watching Studio Ghibli movies
+🎨 Painting some canvas
+🍝 Cooking or Baking something
 ✈️ Traveling
-🍝 Swimming
-🌏 and Studying
+🏊🏻 Swimming
+💻 and Studying
 
 Basically, I like **building software and living in cozy fictional worlds**.
 
