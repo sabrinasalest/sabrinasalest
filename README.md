@@ -4,7 +4,7 @@
 
 Sou **dev backend Java**, atualmente trabalhando no braço tecnológico do **Grupo Santander**, Santander Digital Services.
 
-Meu foco principal é desenvolvimento backend, e minha principal stack é **Java • Spring Boot • JPA/Hibernate • JDBC • REST APIs** etc, mas também gosto de me desafiar(e arranhar) umas telas no front, e em outras tecnologias.
+Meu foco principal é desenvolvimento back-end, e minha principal stack é **Java • Spring Boot • JPA/Hibernate • JDBC • REST APIs** etc, mas também gosto de me desafiar(e arranhar) umas telas no front, e em outras tecnologias.
 
 Este GitHub é meu espaço para:
 
