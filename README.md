@@ -2,7 +2,7 @@
 
 ### Oie, eu sou a Sabrina! 👋🏻
 
-Sou **dev backend Java**, atualmente trabalhando no braço tecnológico do **Grupo Santander**, Santander Digital Services.
+Sou **dev backend Java**, atualmente trabalhando no maior banco da América Latina, **Itaú Unibanco**.
 
 Meu foco principal é desenvolvimento back-end, e minha principal stack é **Java • Spring Boot • JPA/Hibernate • JDBC • REST APIs** etc, mas também gosto de me desafiar(e arranhar) umas telas no front, e em outras tecnologias.
 
