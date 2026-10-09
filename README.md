@@ -27,7 +27,7 @@ Meu objetivo é continuar fortalecendo minha base em **desenvolvimento de softwa
 
 I'm a backend developer focused on building reliable and maintainable software with **Java and Spring Boot Framework**.
 
-Currently, I work at **F1RST Digital Services**, part of **Santander Group**, working mainly with backend development and financial systems.
+Currently, I work at *Itaú Unibanco**, working mainly with backend development and financial systems.
 
 This GitHub is my little space for **projects, experiments, studies and things I'm curious about**. ☕🐈
 
